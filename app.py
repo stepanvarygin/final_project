@@ -2,8 +2,8 @@ from flask import Flask, request
 import joblib
 import numpy
 
-#MODEL_PATH = 'ML_models/model_Random_Forest_150_9.pkl'
-MODEL_PATH = 'ML_models/model_Decision_Tree_10.pkl'
+MODEL_PATH = 'ML_models/model_Random_Forest_150_9.pkl'
+#MODEL_PATH = 'ML_models/model_Decision_Tree_10.pkl'
 SCALER_X_PATH = 'ML_models/standard_scaler_x.pkl'
 SCALER_Y_PATH = 'ML_models/standard_scaler_y.pkl'
 
