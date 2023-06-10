@@ -3,3 +3,4 @@
 env
 .idea
 Dockerfile
+.DS_Store
